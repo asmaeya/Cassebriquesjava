@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.applet.AudioClip;
 import java.applet.*;
 import java.net.URL;
-import java.net.MalformedURLException 
+import java.net.MalformedURLException;
 
 
 public class CasseBriquePanel extends JPanel implements Runnable, KeyListener,MouseListener,
