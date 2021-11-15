@@ -213,4 +213,4 @@ class Brique {
 	public int getY(){return coord[1];}
 	public int getH(){return coord[3];}
 	public int getW(){return coord[2];}
-}
+
