@@ -136,7 +136,7 @@ public class CasseBriquePanel extends JPanel implements Runnable, KeyListener,Mo
 				if(bouleX>=790)
 					gauche=true;
 				
-				if(gauche) bouleX-=deplX; 
+				if(gauche) bouleX-=deplX;
 				else bouleX+=deplX;
 				if(bas) bouleY+=deplY;
 				else bouleY-=deplY;
